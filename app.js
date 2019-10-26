@@ -208,8 +208,8 @@ const emailSender =(email,res)=>{
           <div>
               <img src="https://i.ibb.co/vY9wLvb/expatlogo.png" alt="" class="logo-cstm" style="margin-top: 18px;">
               <div class="happy-text" style="margin-top: 18px;font-size: 18px;">
-                  <p style="color: #6b3300;font-family: 'Montserrat' , sans-serif;margin: 0px auto;text-align: center;font-size: 24px;font-weight: 800;">Team Expat Orbit Wishes you &</p>
-                  <p style="color: #6b3300;font-family: 'Montserrat' , sans-serif;margin: 0px auto;text-align: center;font-size: 24px;font-weight: 800;">& your family a very</p>
+                  <p style="color: #6b3300;font-family: 'Montserrat' , sans-serif;margin: 0px auto;text-align: center;font-size: 24px;font-weight: 800;">Team Expat Orbit Wishes you</p>
+                  <p style="color: #6b3300;font-family: 'Montserrat' , sans-serif;margin: 0px auto;text-align: center;font-size: 24px;font-weight: 800;">and your family a very</p>
               </div>
           <div class="happy" style="width: 100%;margin-top: 2vh;">
               <img src="https://i.ibb.co/DbB9Yd9/diwlaitext.png" alt="" style="position: relative;width: 40%;">
