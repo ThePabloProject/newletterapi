@@ -218,8 +218,8 @@ const emailSender =(email,res)=>{
               May the festival of lights continue adding sparkle to your life.
           </h2>
           <p style="margin-bottom: 5px;color: #6b3300;font-family: 'Montserrat' , sans-serif;margin: 0px auto;text-align: center;font-size: 16px;">When in India, Diwali is a festival you don't want to miss.</p><p style="color: #6b3300;font-family: 'Montserrat' , sans-serif;margin: 0px auto;text-align: center;font-size: 16px;">
-          </p><p style="color: #6b3300;font-family: 'Montserrat' , sans-serif;margin: 0px auto;text-align: center;font-size: 16px;">Make the most of the celebrations by revelling with your India</p>
-          <p style="color: #6b3300;font-family: 'Montserrat' , sans-serif;margin: 0px auto;text-align: center;font-size: 16px;">& participating in rituals as much as you can</p>
+          </p><p style="color: #6b3300;font-family: 'Montserrat' , sans-serif;margin: 0px auto;text-align: center;font-size: 16px;">Make the most of the celebrations by revelling with your Indian friends</p>
+          <p style="color: #6b3300;font-family: 'Montserrat' , sans-serif;margin: 0px auto;text-align: center;font-size: 16px;">and participating in rituals as much as you can</p>
           <p class="semi" style="color: #6b3300;font-family: 'Montserrat' , sans-serif;margin: 14px 0px;text-align: center;font-size: 15px;font-weight: 600;">To learn  more about the history and customs of Diwali,</p>
           <a class="btn" href="https://expatorbit.com/blog/a-guide-to-celebrating-diwali-the-indian-festival-of-lights/" style="justify-content: center;border: 1px solid #6b3300;width: 100px;padding: 5px 10px;margin: 0 auto;display: block;font-weight: 800;border-radius: 8px;font-family: Montserrat;color: #6b3300;text-decoration: none;">Read More</a>
           </div>
