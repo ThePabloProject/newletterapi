@@ -9,7 +9,7 @@ const http = require("http");
 const httpServer = http.createServer(app);
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
-
+app.use(express.static('fonts'));
 const allowCrossDomain = (req, res, next) => {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Methods", "PUT, DELETE, GET, POST, OPTIONS");
